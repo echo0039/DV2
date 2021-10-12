@@ -1,0 +1,133 @@
+Country,Year,Sex,Crude suicide rates (per 100k population),Latitude,Longitude
+Afghanistan,2012,Both sexes,4,33,65
+Afghanistan,2013,Both sexes,4,33,65
+Afghanistan,2014,Both sexes,3.9,33,65
+Armenia,2012,Both sexes,7.4,40,45
+Armenia,2013,Both sexes,6.4,40,45
+Armenia,2014,Both sexes,6.3,40,45
+Azerbaijan,2012,Both sexes,4.4,40.5,47.5
+Azerbaijan,2013,Both sexes,4.3,40.5,47.5
+Azerbaijan,2014,Both sexes,4.2,40.5,47.5
+Bangladesh,2012,Both sexes,3.7,24,90
+Bangladesh,2013,Both sexes,3.5,24,90
+Bangladesh,2014,Both sexes,3.5,24,90
+Bhutan,2012,Both sexes,4.3,27.5,90.5
+Bhutan,2013,Both sexes,4.4,27.5,90.5
+Bhutan,2014,Both sexes,4.4,27.5,90.5
+Brunei,2012,Both sexes,2.1,4.5,114.67
+Brunei,2013,Both sexes,1.8,4.5,114.67
+Brunei,2014,Both sexes,1.8,4.5,114.67
+Cambodia,2012,Both sexes,5.2,13,105
+Cambodia,2013,Both sexes,5.2,13,105
+Cambodia,2014,Both sexes,5.1,13,105
+China,2012,Both sexes,9,35,105
+China,2013,Both sexes,8.6,35,105
+China,2014,Both sexes,8.4,35,105
+Cyprus,2012,Both sexes,5.4,35,33
+Cyprus,2013,Both sexes,5.7,35,33
+Cyprus,2014,Both sexes,5.4,35,33
+Dem. Rep. Korea,2012,Both sexes,9.7,40,127
+Dem. Rep. Korea,2013,Both sexes,9.9,40,127
+Dem. Rep. Korea,2014,Both sexes,10,40,127
+Georgia,2012,Both sexes,9.2,42,43.5
+Georgia,2013,Both sexes,9.8,42,43.5
+Georgia,2014,Both sexes,10.3,42,43.5
+India,2012,Both sexes,14.3,20,77
+India,2013,Both sexes,13.7,20,77
+India,2014,Both sexes,12.8,20,77
+Indonesia,2012,Both sexes,2.5,-5,120
+Indonesia,2013,Both sexes,2.5,-5,120
+Indonesia,2014,Both sexes,2.4,-5,120
+Iran,2012,Both sexes,6.7,32,53
+Iran,2013,Both sexes,6.6,32,53
+Iran,2014,Both sexes,6.5,32,53
+Iraq,2012,Both sexes,4.1,33,44
+Iraq,2013,Both sexes,4.2,33,44
+Iraq,2014,Both sexes,4.1,33,44
+Israel,2012,Both sexes,6.1,31.5,34.75
+Israel,2013,Both sexes,5.2,31.5,34.75
+Israel,2014,Both sexes,5.1,31.5,34.75
+Japan,2012,Both sexes,21.6,36,138
+Japan,2013,Both sexes,21.4,36,138
+Japan,2014,Both sexes,20.1,36,138
+Jordan,2012,Both sexes,1.5,31,36
+Jordan,2013,Both sexes,1.5,31,36
+Jordan,2014,Both sexes,1.5,31,36
+Kazakhstan,2012,Both sexes,27.6,48,68
+Kazakhstan,2013,Both sexes,26.3,48,68
+Kazakhstan,2014,Both sexes,24.2,48,68
+Kuwait,2012,Both sexes,2.4,29.34,47.66
+Kuwait,2013,Both sexes,2.4,29.34,47.66
+Kuwait,2014,Both sexes,2.5,29.34,47.66
+Kyrgyzstan,2012,Both sexes,10.9,41,75
+Kyrgyzstan,2013,Both sexes,10.5,41,75
+Kyrgyzstan,2014,Both sexes,10.5,41,75
+Lao PDR,2012,Both sexes,5.7,18,105
+Lao PDR,2013,Both sexes,5.7,18,105
+Lao PDR,2014,Both sexes,5.5,18,105
+Lebanon,2012,Both sexes,3,33.83,35.83
+Lebanon,2013,Both sexes,3,33.83,35.83
+Lebanon,2014,Both sexes,2.8,33.83,35.83
+Malaysia,2012,Both sexes,4.6,2.5,112.5
+Malaysia,2013,Both sexes,4.4,2.5,112.5
+Malaysia,2014,Both sexes,4.6,2.5,112.5
+Mongolia,2012,Both sexes,21.7,46,105
+Mongolia,2013,Both sexes,21,46,105
+Mongolia,2014,Both sexes,20,46,105
+Myanmar,2012,Both sexes,3.3,22,98
+Myanmar,2013,Both sexes,3.3,22,98
+Myanmar,2014,Both sexes,3.2,22,98
+Nepal,2012,Both sexes,8.9,28,84
+Nepal,2013,Both sexes,8.7,28,84
+Nepal,2014,Both sexes,8.5,28,84
+Oman,2012,Both sexes,5.4,21,57
+Oman,2013,Both sexes,5.3,21,57
+Oman,2014,Both sexes,5.1,21,57
+Pakistan,2012,Both sexes,8.8,30,70
+Pakistan,2013,Both sexes,8.9,30,70
+Pakistan,2014,Both sexes,8.9,30,70
+Philippines,2012,Both sexes,2.4,13,122
+Philippines,2013,Both sexes,2.4,13,122
+Philippines,2014,Both sexes,2.3,13,122
+Qatar,2012,Both sexes,7.4,25.5,51.25
+Qatar,2013,Both sexes,6.7,25.5,51.25
+Qatar,2014,Both sexes,6.3,25.5,51.25
+Korea,2012,Both sexes,30.2,37,127.5
+Korea,2013,Both sexes,30.6,37,127.5
+Korea,2014,Both sexes,29,37,127.5
+Saudi Arabia,2012,Both sexes,6.4,25,45
+Saudi Arabia,2013,Both sexes,6.5,25,45
+Saudi Arabia,2014,Both sexes,6.6,25,45
+Sri Lanka,2012,Both sexes,16.6,7,81
+Sri Lanka,2013,Both sexes,15.2,7,81
+Sri Lanka,2014,Both sexes,13.1,7,81
+Syria,2012,Both sexes,1.6,35,38
+Syria,2013,Both sexes,1.8,35,38
+Syria,2014,Both sexes,1.8,35,38
+Tajikistan,2012,Both sexes,4.1,39,71
+Tajikistan,2013,Both sexes,4,39,71
+Tajikistan,2014,Both sexes,4.1,39,71
+Thailand,2012,Both sexes,7.9,15,100
+Thailand,2013,Both sexes,7.5,15,100
+Thailand,2014,Both sexes,7.8,15,100
+Timor-Leste,2012,Both sexes,3.3,-8.874217,125.727539
+Timor-Leste,2013,Both sexes,3.3,-8.874217,125.727539
+Timor-Leste,2014,Both sexes,3.4,-8.874217,125.727539
+Turkey,2012,Both sexes,2.2,39,35
+Turkey,2013,Both sexes,2.3,39,35
+Turkey,2014,Both sexes,2.3,39,35
+Turkmenistan,2012,Both sexes,7.1,40,60
+Turkmenistan,2013,Both sexes,7.1,40,60
+Turkmenistan,2014,Both sexes,6.8,40,60
+United Arab Emirates,2012,Both sexes,7.9,24,54
+United Arab Emirates,2013,Both sexes,7.5,24,54
+United Arab Emirates,2014,Both sexes,7,24,54
+Uzbekistan,2012,Both sexes,8.9,41,64
+Uzbekistan,2013,Both sexes,8.9,41,64
+Uzbekistan,2014,Both sexes,9,41,64
+Vietnam,2012,Both sexes,7.4,16,106
+Vietnam,2013,Both sexes,7.5,16,106
+Vietnam,2014,Both sexes,7.6,16,106
+Yemen,2012,Both sexes,5.7,15,48
+Yemen,2013,Both sexes,5.7,15,48
+Yemen,2014,Both sexes,5.7,15,48
