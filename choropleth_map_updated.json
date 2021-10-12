@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Suicide Rates in Asia (2012 - 2014)",
-    "width": "container",
-    "height": 400,
+    "width": 800,
+    "height": 500,
     "projection": {
         "type": "equirectangular"
     },
@@ -38,7 +38,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/echo0039/DV2/main/suicide%20rates%201%20(choropleth%20map).csv"
+                "url": "https://raw.githubusercontent.com/echo0039/3179-testrepo/main/week10/suicide%20rates%201%20(choropleth%20map).csv"
             },
             "transform": [{
                     "lookup": "Country",
@@ -63,11 +63,8 @@
                     "field": "Crude suicide rates (per 100k population)",
                     "type": "quantitative",
                     "scale": {
-                        "domain": [
-                            0,
-                            35
-                        ],
-                        "scheme": "blues"
+                        "domain": [0,35],
+                        "scheme": "reds"
                     },
                     "legend": { "format": ".2s" }
                 },
@@ -85,7 +82,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/echo0039/DV2/main/suicide%20rates%201%20(choropleth%20map).csv"
+                "url": "https://raw.githubusercontent.com/echo0039/3179-testrepo/main/week10/suicide%20rates%201%20(choropleth%20map).csv"
             },
             "mark": { 
                 "type": "text", 
@@ -96,8 +93,8 @@
                 "fontStyle": "italic"
             },
             "encoding": {
-                "longitude": { "field": "Longitude", "type": "quantitative" },
-                "latitude": { "field": "Latitude", "type": "quantitative"},
+                "longitude": { "field": "Latitude", "type": "quantitative" },
+                "latitude": { "field": "Longitude", "type": "quantitative"},
                 "text": {"field": "Country", "type": "nominal"},
                 "color": { "value": "black"},
                 "opacity": {
