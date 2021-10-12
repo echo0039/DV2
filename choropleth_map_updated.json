@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Suicide Rates in Asia (2012 - 2014)",
-    "width": 800,
-    "height": 500,
+    "width": "container",
+    "height": 600,
     "projection": {
         "type": "equirectangular"
     },
