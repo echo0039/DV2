@@ -38,7 +38,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/echo0039/3179-testrepo/main/week10/suicide%20rates%201%20(choropleth%20map).csv"
+                "url": "https://raw.githubusercontent.com/echo0039/DV2/main/suicide%20rates%201%20(choropleth%20map).csv"
             },
             "transform": [{
                     "lookup": "Country",
@@ -82,7 +82,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/echo0039/3179-testrepo/main/week10/suicide%20rates%201%20(choropleth%20map).csv"
+                "url": "https://raw.githubusercontent.com/echo0039/DV2/main/suicide%20rates%201%20(choropleth%20map).csv"
             },
             "mark": { 
                 "type": "text", 
