@@ -1,0 +1,623 @@
+country,year,sex,age,suicides/100k pop,generation
+Armenia,2012,male,75+ years,8.83,Silent
+Armenia,2012,male,35-54 years,6.9,Generation X
+Armenia,2012,male,55-74 years,5.18,Boomers
+Armenia,2012,male,25-34 years,4.48,Millenials
+Armenia,2012,female,75+ years,3.29,Silent
+Armenia,2012,male,15-24 years,1.96,Millenials
+Armenia,2012,female,35-54 years,1.63,Generation X
+Armenia,2012,female,25-34 years,1.54,Millenials
+Armenia,2012,female,55-74 years,1.46,Boomers
+Armenia,2012,female,15-24 years,0.78,Millenials
+Armenia,2012,male,5-14 years,0.52,Generation Z
+Armenia,2012,female,5-14 years,0,Generation Z
+Armenia,2013,male,75+ years,11.94,Silent
+Armenia,2013,female,75+ years,6.31,Silent
+Armenia,2013,male,55-74 years,5.04,Boomers
+Armenia,2013,female,55-74 years,3.92,Boomers
+Armenia,2013,male,25-34 years,3.59,Millenials
+Armenia,2013,male,35-54 years,3.51,Generation X
+Armenia,2013,female,35-54 years,1.42,Generation X
+Armenia,2013,male,15-24 years,0.82,Millenials
+Armenia,2013,male,5-14 years,0.52,Generation Z
+Armenia,2013,female,15-24 years,0.41,Millenials
+Armenia,2013,female,25-34 years,0,Millenials
+Armenia,2013,female,5-14 years,0,Generation Z
+Armenia,2014,male,75+ years,14.97,Silent
+Armenia,2014,female,75+ years,6.12,Silent
+Armenia,2014,male,55-74 years,5.35,Boomers
+Armenia,2014,male,35-54 years,3.58,Generation X
+Armenia,2014,male,25-34 years,2.37,Millenials
+Armenia,2014,female,55-74 years,1.38,Boomers
+Armenia,2014,male,15-24 years,1.3,Millenials
+Armenia,2014,female,15-24 years,0.88,Millenials
+Armenia,2014,female,5-14 years,0.58,Generation Z
+Armenia,2014,female,35-54 years,0.48,Generation X
+Armenia,2014,female,25-34 years,0,Millenials
+Bahrain,2012,male,25-34 years,4.64,Millenials
+Bahrain,2012,male,35-54 years,2.24,Generation X
+Bahrain,2012,female,25-34 years,0.9,Millenials
+Bahrain,2012,male,15-24 years,0.9,Millenials
+Bahrain,2012,female,15-24 years,0,Millenials
+Bahrain,2012,female,35-54 years,0,Generation X
+Bahrain,2012,female,5-14 years,0,Generation Z
+Bahrain,2012,female,55-74 years,0,Boomers
+Bahrain,2012,female,75+ years,0,Silent
+Bahrain,2012,male,5-14 years,0,Generation Z
+Bahrain,2012,male,55-74 years,0,Boomers
+Bahrain,2012,male,75+ years,0,Silent
+Bahrain,2013,male,15-24 years,0.91,Millenials
+Bahrain,2013,male,25-34 years,0.84,Millenials
+Bahrain,2013,male,35-54 years,0.74,Generation X
+Bahrain,2013,female,15-24 years,0,Millenials
+Bahrain,2013,female,25-34 years,0,Millenials
+Bahrain,2013,female,35-54 years,0,Generation X
+Bahrain,2013,female,5-14 years,0,Generation Z
+Bahrain,2013,female,55-74 years,0,Boomers
+Bahrain,2013,female,75+ years,0,Silent
+Bahrain,2013,male,5-14 years,0,Generation Z
+Bahrain,2013,male,55-74 years,0,Boomers
+Bahrain,2013,male,75+ years,0,Silent
+Bahrain,2014,male,15-24 years,3.97,Millenials
+Bahrain,2014,male,25-34 years,1.26,Millenials
+Bahrain,2014,female,25-34 years,0.9,Millenials
+Bahrain,2014,male,35-54 years,0.39,Generation X
+Bahrain,2014,female,15-24 years,0,Millenials
+Bahrain,2014,female,35-54 years,0,Generation X
+Bahrain,2014,female,5-14 years,0,Generation Z
+Bahrain,2014,female,55-74 years,0,Boomers
+Bahrain,2014,female,75+ years,0,Silent
+Bahrain,2014,male,5-14 years,0,Generation Z
+Bahrain,2014,male,55-74 years,0,Boomers
+Bahrain,2014,male,75+ years,0,Silent
+Cyprus,2012,male,25-34 years,12.75,Millenials
+Cyprus,2012,male,35-54 years,12.66,Generation X
+Cyprus,2012,male,15-24 years,9.09,Millenials
+Cyprus,2012,male,55-74 years,6.27,Boomers
+Cyprus,2012,female,25-34 years,1.33,Millenials
+Cyprus,2012,female,35-54 years,0.8,Generation X
+Cyprus,2012,female,15-24 years,0,Millenials
+Cyprus,2012,female,5-14 years,0,Generation Z
+Cyprus,2012,female,55-74 years,0,Boomers
+Cyprus,2012,female,75+ years,0,Silent
+Cyprus,2012,male,5-14 years,0,Generation Z
+Cyprus,2012,male,75+ years,0,Silent
+Cyprus,2013,male,75+ years,14.05,Silent
+Cyprus,2013,male,15-24 years,12.72,Millenials
+Cyprus,2013,male,55-74 years,12.21,Boomers
+Cyprus,2013,male,25-34 years,11.34,Millenials
+Cyprus,2013,male,35-54 years,9.95,Generation X
+Cyprus,2013,female,35-54 years,3.18,Generation X
+Cyprus,2013,female,55-74 years,1.16,Boomers
+Cyprus,2013,female,15-24 years,0,Millenials
+Cyprus,2013,female,25-34 years,0,Millenials
+Cyprus,2013,female,5-14 years,0,Generation Z
+Cyprus,2013,female,75+ years,0,Silent
+Cyprus,2013,male,5-14 years,0,Generation Z
+Cyprus,2014,male,35-54 years,12.06,Generation X
+Cyprus,2014,male,25-34 years,11.67,Millenials
+Cyprus,2014,male,55-74 years,8.46,Boomers
+Cyprus,2014,female,55-74 years,5.74,Boomers
+Cyprus,2014,female,25-34 years,5.53,Millenials
+Cyprus,2014,female,15-24 years,5.07,Millenials
+Cyprus,2014,male,75+ years,4.47,Silent
+Cyprus,2014,male,15-24 years,3.28,Millenials
+Cyprus,2014,female,35-54 years,0.82,Generation X
+Cyprus,2014,female,5-14 years,0,Generation Z
+Cyprus,2014,female,75+ years,0,Silent
+Cyprus,2014,male,5-14 years,0,Generation Z
+Georgia,2012,male,75+ years,11.48,Silent
+Georgia,2012,male,55-74 years,6.48,Boomers
+Georgia,2012,male,25-34 years,5.49,Millenials
+Georgia,2012,male,35-54 years,4.36,Generation X
+Georgia,2012,male,15-24 years,3.26,Millenials
+Georgia,2012,female,75+ years,1.04,Silent
+Georgia,2012,female,15-24 years,0.93,Millenials
+Georgia,2012,female,55-74 years,0.64,Boomers
+Georgia,2012,female,35-54 years,0.46,Generation X
+Georgia,2012,female,5-14 years,0.45,Generation Z
+Georgia,2012,female,25-34 years,0.29,Millenials
+Georgia,2012,male,5-14 years,0,Generation Z
+Georgia,2013,male,75+ years,22.79,Silent
+Georgia,2013,male,55-74 years,9.2,Boomers
+Georgia,2013,male,35-54 years,6.89,Generation X
+Georgia,2013,male,25-34 years,5.75,Millenials
+Georgia,2013,male,15-24 years,4,Millenials
+Georgia,2013,female,75+ years,1.99,Silent
+Georgia,2013,female,55-74 years,1.7,Boomers
+Georgia,2013,female,35-54 years,1.07,Generation X
+Georgia,2013,male,5-14 years,0.8,Generation Z
+Georgia,2013,female,15-24 years,0.64,Millenials
+Georgia,2013,female,5-14 years,0.45,Generation Z
+Georgia,2013,female,25-34 years,0.29,Millenials
+Georgia,2014,male,75+ years,23.76,Silent
+Georgia,2014,male,55-74 years,19.4,Boomers
+Georgia,2014,male,35-54 years,10.79,Generation X
+Georgia,2014,female,55-74 years,4.59,Boomers
+Georgia,2014,male,15-24 years,4.54,Millenials
+Georgia,2014,male,25-34 years,4.51,Millenials
+Georgia,2014,female,75+ years,2.94,Silent
+Georgia,2014,female,15-24 years,1.99,Millenials
+Georgia,2014,female,25-34 years,1.05,Millenials
+Georgia,2014,female,35-54 years,0.92,Generation X
+Georgia,2014,female,5-14 years,0,Generation Z
+Georgia,2014,male,5-14 years,0,Generation Z
+Israel,2012,male,75+ years,21.32,Silent
+Israel,2012,male,55-74 years,17.03,Boomers
+Israel,2012,male,35-54 years,14.7,Generation X
+Israel,2012,male,25-34 years,10.02,Millenials
+Israel,2012,male,15-24 years,5.21,Millenials
+Israel,2012,female,75+ years,4.01,Silent
+Israel,2012,female,55-74 years,3.92,Boomers
+Israel,2012,female,25-34 years,3,Millenials
+Israel,2012,female,15-24 years,2.21,Millenials
+Israel,2012,female,35-54 years,1.96,Generation X
+Israel,2012,male,5-14 years,0.41,Generation Z
+Israel,2012,female,5-14 years,0,Generation Z
+Israel,2013,male,75+ years,21.24,Silent
+Israel,2013,male,55-74 years,12.66,Boomers
+Israel,2013,male,35-54 years,11.23,Generation X
+Israel,2013,male,25-34 years,8.19,Millenials
+Israel,2013,female,75+ years,5.2,Silent
+Israel,2013,male,15-24 years,4.81,Millenials
+Israel,2013,female,55-74 years,3.67,Boomers
+Israel,2013,female,35-54 years,2.79,Generation X
+Israel,2013,female,25-34 years,2.63,Millenials
+Israel,2013,male,5-14 years,0.95,Generation Z
+Israel,2013,female,15-24 years,0.84,Millenials
+Israel,2013,female,5-14 years,0,Generation Z
+Israel,2014,male,75+ years,19.4,Silent
+Israel,2014,male,35-54 years,13.51,Generation X
+Israel,2014,male,55-74 years,9.36,Boomers
+Israel,2014,male,25-34 years,7.07,Millenials
+Israel,2014,male,15-24 years,5.52,Millenials
+Israel,2014,female,75+ years,4.65,Silent
+Israel,2014,female,55-74 years,3.72,Boomers
+Israel,2014,female,35-54 years,3.05,Generation X
+Israel,2014,female,25-34 years,2.26,Millenials
+Israel,2014,female,15-24 years,1.65,Millenials
+Israel,2014,male,5-14 years,0.93,Generation Z
+Israel,2014,female,5-14 years,0.14,Generation Z
+Japan,2012,male,75+ years,39.11,Silent
+Japan,2012,male,55-74 years,37.74,Boomers
+Japan,2012,male,35-54 years,37.03,Generation X
+Japan,2012,male,25-34 years,30.39,Millenials
+Japan,2012,male,15-24 years,20.92,Millenials
+Japan,2012,female,75+ years,17.22,Silent
+Japan,2012,female,55-74 years,15.2,Boomers
+Japan,2012,female,35-54 years,13.24,Generation X
+Japan,2012,female,25-34 years,13.09,Millenials
+Japan,2012,female,15-24 years,8.43,Millenials
+Japan,2012,male,5-14 years,0.96,Generation Z
+Japan,2012,female,5-14 years,0.37,Generation Z
+Japan,2013,male,75+ years,39.6,Silent
+Japan,2013,male,35-54 years,36.47,Generation X
+Japan,2013,male,55-74 years,36.46,Boomers
+Japan,2013,male,25-34 years,30.31,Millenials
+Japan,2013,male,15-24 years,20.22,Millenials
+Japan,2013,female,75+ years,17.87,Silent
+Japan,2013,female,55-74 years,15.07,Boomers
+Japan,2013,female,35-54 years,13.21,Generation X
+Japan,2013,female,25-34 years,12.3,Millenials
+Japan,2013,female,15-24 years,8,Millenials
+Japan,2013,male,5-14 years,1.02,Generation Z
+Japan,2013,female,5-14 years,0.63,Generation Z
+Japan,2014,male,75+ years,36.93,Silent
+Japan,2014,male,55-74 years,33.78,Boomers
+Japan,2014,male,35-54 years,32.88,Generation X
+Japan,2014,male,25-34 years,30.41,Millenials
+Japan,2014,male,15-24 years,19.31,Millenials
+Japan,2014,female,75+ years,16.26,Silent
+Japan,2014,female,55-74 years,14.53,Boomers
+Japan,2014,female,35-54 years,12.72,Generation X
+Japan,2014,female,25-34 years,12.09,Millenials
+Japan,2014,female,15-24 years,7.44,Millenials
+Japan,2014,male,5-14 years,1.22,Generation Z
+Japan,2014,female,5-14 years,0.64,Generation Z
+Kazakhstan,2012,male,25-34 years,51.71,Millenials
+Kazakhstan,2012,male,35-54 years,51.58,Generation X
+Kazakhstan,2012,male,75+ years,46.19,Silent
+Kazakhstan,2012,male,55-74 years,43.19,Boomers
+Kazakhstan,2012,male,15-24 years,28.76,Millenials
+Kazakhstan,2012,female,75+ years,13.84,Silent
+Kazakhstan,2012,female,15-24 years,8.95,Millenials
+Kazakhstan,2012,female,35-54 years,7.96,Generation X
+Kazakhstan,2012,female,25-34 years,7.88,Millenials
+Kazakhstan,2012,female,55-74 years,7.76,Boomers
+Kazakhstan,2012,male,5-14 years,2.62,Generation Z
+Kazakhstan,2012,female,5-14 years,0.58,Generation Z
+Kazakhstan,2013,male,75+ years,55.71,Silent
+Kazakhstan,2013,male,35-54 years,54.41,Generation X
+Kazakhstan,2013,male,25-34 years,51.42,Millenials
+Kazakhstan,2013,male,55-74 years,44.73,Boomers
+Kazakhstan,2013,male,15-24 years,31.4,Millenials
+Kazakhstan,2013,female,75+ years,15.63,Silent
+Kazakhstan,2013,female,15-24 years,12.95,Millenials
+Kazakhstan,2013,female,25-34 years,9.37,Millenials
+Kazakhstan,2013,female,35-54 years,8.43,Generation X
+Kazakhstan,2013,female,55-74 years,7.25,Boomers
+Kazakhstan,2013,male,5-14 years,3.2,Generation Z
+Kazakhstan,2013,female,5-14 years,2.17,Generation Z
+Kazakhstan,2014,male,35-54 years,51.13,Generation X
+Kazakhstan,2014,male,75+ years,47.11,Silent
+Kazakhstan,2014,male,25-34 years,45.62,Millenials
+Kazakhstan,2014,male,55-74 years,37.65,Boomers
+Kazakhstan,2014,male,15-24 years,25.85,Millenials
+Kazakhstan,2014,female,75+ years,14.44,Silent
+Kazakhstan,2014,female,15-24 years,9.82,Millenials
+Kazakhstan,2014,female,25-34 years,8.45,Millenials
+Kazakhstan,2014,female,35-54 years,7.42,Generation X
+Kazakhstan,2014,female,55-74 years,5.46,Boomers
+Kazakhstan,2014,male,5-14 years,2.76,Generation Z
+Kazakhstan,2014,female,5-14 years,1.38,Generation Z
+Kuwait,2012,male,15-24 years,3.74,Millenials
+Kuwait,2012,female,55-74 years,2.41,Boomers
+Kuwait,2012,female,25-34 years,2.12,Millenials
+Kuwait,2012,male,35-54 years,2.07,Generation X
+Kuwait,2012,female,15-24 years,1.69,Millenials
+Kuwait,2012,male,25-34 years,1.26,Millenials
+Kuwait,2012,female,35-54 years,1.18,Generation X
+Kuwait,2012,male,55-74 years,0.72,Boomers
+Kuwait,2012,male,5-14 years,0.4,Generation Z
+Kuwait,2012,female,5-14 years,0,Generation Z
+Kuwait,2012,female,75+ years,0,Silent
+Kuwait,2012,male,75+ years,0,Silent
+Kuwait,2013,male,25-34 years,2.48,Millenials
+Kuwait,2013,male,55-74 years,2.05,Boomers
+Kuwait,2013,female,25-34 years,1.32,Millenials
+Kuwait,2013,female,15-24 years,1.29,Millenials
+Kuwait,2013,female,35-54 years,1.16,Generation X
+Kuwait,2013,male,35-54 years,0.83,Generation X
+Kuwait,2013,male,15-24 years,0.75,Millenials
+Kuwait,2013,female,5-14 years,0,Generation Z
+Kuwait,2013,female,55-74 years,0,Boomers
+Kuwait,2013,female,75+ years,0,Silent
+Kuwait,2013,male,5-14 years,0,Generation Z
+Kuwait,2013,male,75+ years,0,Silent
+Kuwait,2014,male,25-34 years,3.31,Millenials
+Kuwait,2014,male,15-24 years,2.59,Millenials
+Kuwait,2014,female,15-24 years,2.19,Millenials
+Kuwait,2014,male,35-54 years,2.02,Generation X
+Kuwait,2014,male,55-74 years,1.91,Boomers
+Kuwait,2014,female,35-54 years,1.76,Generation X
+Kuwait,2014,female,55-74 years,1.06,Boomers
+Kuwait,2014,female,25-34 years,1.02,Millenials
+Kuwait,2014,female,5-14 years,0,Generation Z
+Kuwait,2014,female,75+ years,0,Silent
+Kuwait,2014,male,5-14 years,0,Generation Z
+Kuwait,2014,male,75+ years,0,Silent
+Kyrgyzstan,2012,male,25-34 years,26.04,Millenials
+Kyrgyzstan,2012,male,55-74 years,23.49,Boomers
+Kyrgyzstan,2012,male,35-54 years,23.09,Generation X
+Kyrgyzstan,2012,male,75+ years,15.59,Silent
+Kyrgyzstan,2012,female,75+ years,15,Silent
+Kyrgyzstan,2012,male,15-24 years,12.52,Millenials
+Kyrgyzstan,2012,female,15-24 years,7.01,Millenials
+Kyrgyzstan,2012,female,35-54 years,5.55,Generation X
+Kyrgyzstan,2012,female,25-34 years,5.09,Millenials
+Kyrgyzstan,2012,female,55-74 years,3.87,Boomers
+Kyrgyzstan,2012,male,5-14 years,2.82,Generation Z
+Kyrgyzstan,2012,female,5-14 years,0.59,Generation Z
+Kyrgyzstan,2013,male,35-54 years,20.35,Generation X
+Kyrgyzstan,2013,male,55-74 years,18.15,Boomers
+Kyrgyzstan,2013,male,25-34 years,17.63,Millenials
+Kyrgyzstan,2013,male,15-24 years,12.86,Millenials
+Kyrgyzstan,2013,male,75+ years,12.67,Silent
+Kyrgyzstan,2013,female,15-24 years,6.61,Millenials
+Kyrgyzstan,2013,female,75+ years,5.84,Silent
+Kyrgyzstan,2013,female,25-34 years,4.02,Millenials
+Kyrgyzstan,2013,male,5-14 years,3.89,Generation Z
+Kyrgyzstan,2013,female,55-74 years,2.95,Boomers
+Kyrgyzstan,2013,female,35-54 years,2.75,Generation X
+Kyrgyzstan,2013,female,5-14 years,2.12,Generation Z
+Kyrgyzstan,2014,male,35-54 years,23.12,Generation X
+Kyrgyzstan,2014,male,25-34 years,18.78,Millenials
+Kyrgyzstan,2014,male,55-74 years,16.3,Boomers
+Kyrgyzstan,2014,male,75+ years,14.76,Silent
+Kyrgyzstan,2014,male,15-24 years,10.76,Millenials
+Kyrgyzstan,2014,female,75+ years,5.65,Silent
+Kyrgyzstan,2014,female,15-24 years,5.28,Millenials
+Kyrgyzstan,2014,female,25-34 years,4.48,Millenials
+Kyrgyzstan,2014,female,35-54 years,4.38,Generation X
+Kyrgyzstan,2014,female,55-74 years,3.86,Boomers
+Kyrgyzstan,2014,male,5-14 years,2.91,Generation Z
+Kyrgyzstan,2014,female,5-14 years,1.51,Generation Z
+Oman,2014,male,25-34 years,0.44,Millenials
+Oman,2014,male,35-54 years,0.29,Generation X
+Oman,2014,female,15-24 years,0,Millenials
+Oman,2014,female,25-34 years,0,Millenials
+Oman,2014,female,35-54 years,0,Generation X
+Oman,2014,female,5-14 years,0,Generation Z
+Oman,2014,female,55-74 years,0,Boomers
+Oman,2014,female,75+ years,0,Silent
+Oman,2014,male,15-24 years,0,Millenials
+Oman,2014,male,5-14 years,0,Generation Z
+Oman,2014,male,75+ years,0,Silent
+Qatar,2012,male,25-34 years,2.98,Millenials
+Qatar,2012,female,35-54 years,2.97,Generation X
+Qatar,2012,male,15-24 years,2.63,Millenials
+Qatar,2012,male,35-54 years,2.39,Generation X
+Qatar,2012,male,55-74 years,1.55,Boomers
+Qatar,2012,female,25-34 years,0.75,Millenials
+Qatar,2012,female,15-24 years,0,Millenials
+Qatar,2012,female,5-14 years,0,Generation Z
+Qatar,2012,female,55-74 years,0,Boomers
+Qatar,2012,female,75+ years,0,Silent
+Qatar,2012,male,5-14 years,0,Generation Z
+Qatar,2012,male,75+ years,0,Silent
+Qatar,2013,male,15-24 years,2.81,Millenials
+Qatar,2013,male,25-34 years,2.58,Millenials
+Qatar,2013,male,35-54 years,2.14,Generation X
+Qatar,2013,female,25-34 years,0.7,Millenials
+Qatar,2013,female,15-24 years,0,Millenials
+Qatar,2013,female,35-54 years,0,Generation X
+Qatar,2013,female,5-14 years,0,Generation Z
+Qatar,2013,female,55-74 years,0,Boomers
+Qatar,2013,female,75+ years,0,Silent
+Qatar,2013,male,5-14 years,0,Generation Z
+Qatar,2013,male,55-74 years,0,Boomers
+Qatar,2013,male,75+ years,0,Silent
+Qatar,2014,female,55-74 years,4.45,Boomers
+Qatar,2014,male,15-24 years,4.18,Millenials
+Qatar,2014,male,35-54 years,3.65,Generation X
+Qatar,2014,male,55-74 years,2.5,Boomers
+Qatar,2014,male,25-34 years,2.39,Millenials
+Qatar,2014,female,15-24 years,1.17,Millenials
+Qatar,2014,female,25-34 years,0.65,Millenials
+Qatar,2014,female,35-54 years,0,Generation X
+Qatar,2014,female,5-14 years,0,Generation Z
+Qatar,2014,female,75+ years,0,Silent
+Qatar,2014,male,5-14 years,0,Generation Z
+Qatar,2014,male,75+ years,0,Silent
+Republic of Korea,2012,male,75+ years,152.45,Silent
+Republic of Korea,2012,male,55-74 years,69.39,Boomers
+Republic of Korea,2012,female,75+ years,61.4,Silent
+Republic of Korea,2012,male,35-54 years,42.93,Generation X
+Republic of Korea,2012,male,25-34 years,31.88,Millenials
+Republic of Korea,2012,female,55-74 years,22.18,Boomers
+Republic of Korea,2012,female,25-34 years,20.34,Millenials
+Republic of Korea,2012,female,35-54 years,18.25,Generation X
+Republic of Korea,2012,male,15-24 years,13.29,Millenials
+Republic of Korea,2012,female,15-24 years,9.38,Millenials
+Republic of Korea,2012,male,5-14 years,1,Generation Z
+Republic of Korea,2012,female,5-14 years,0.77,Generation Z
+Republic of Korea,2013,male,75+ years,147.59,Silent
+Republic of Korea,2013,male,55-74 years,68.24,Boomers
+Republic of Korea,2013,female,75+ years,53.3,Silent
+Republic of Korea,2013,male,35-54 years,47.47,Generation X
+Republic of Korea,2013,male,25-34 years,30.17,Millenials
+Republic of Korea,2013,female,55-74 years,20.2,Boomers
+Republic of Korea,2013,female,25-34 years,19.73,Millenials
+Republic of Korea,2013,female,35-54 years,18.44,Generation X
+Republic of Korea,2013,male,15-24 years,13.18,Millenials
+Republic of Korea,2013,female,15-24 years,8.83,Millenials
+Republic of Korea,2013,male,5-14 years,0.78,Generation Z
+Republic of Korea,2013,female,5-14 years,0.64,Generation Z
+Republic of Korea,2014,male,75+ years,124.45,Silent
+Republic of Korea,2014,male,55-74 years,61.25,Boomers
+Republic of Korea,2014,male,35-54 years,47.33,Generation X
+Republic of Korea,2014,female,75+ years,44.31,Silent
+Republic of Korea,2014,male,25-34 years,30.93,Millenials
+Republic of Korea,2014,female,25-34 years,18.58,Millenials
+Republic of Korea,2014,female,55-74 years,18.58,Boomers
+Republic of Korea,2014,female,35-54 years,17.98,Generation X
+Republic of Korea,2014,male,15-24 years,12.62,Millenials
+Republic of Korea,2014,female,15-24 years,8.01,Millenials
+Republic of Korea,2014,male,5-14 years,0.84,Generation Z
+Republic of Korea,2014,female,5-14 years,0.45,Generation Z
+Russian Federation,2012,male,75+ years,67.18,Silent
+Russian Federation,2012,male,25-34 years,48.64,Millenials
+Russian Federation,2012,male,35-54 years,44.69,Generation X
+Russian Federation,2012,male,55-74 years,41.42,Boomers
+Russian Federation,2012,male,15-24 years,34.53,Millenials
+Russian Federation,2012,female,75+ years,18.06,Silent
+Russian Federation,2012,female,25-34 years,7.32,Millenials
+Russian Federation,2012,female,35-54 years,7.29,Generation X
+Russian Federation,2012,female,55-74 years,7.07,Boomers
+Russian Federation,2012,female,15-24 years,6.87,Millenials
+Russian Federation,2012,male,5-14 years,1.49,Generation Z
+Russian Federation,2012,female,5-14 years,0.95,Generation Z
+Russian Federation,2013,male,75+ years,65.93,Silent
+Russian Federation,2013,male,25-34 years,48.31,Millenials
+Russian Federation,2013,male,35-54 years,45.24,Generation X
+Russian Federation,2013,male,55-74 years,39.33,Boomers
+Russian Federation,2013,male,15-24 years,31.09,Millenials
+Russian Federation,2013,female,75+ years,15.73,Silent
+Russian Federation,2013,female,35-54 years,6.8,Generation X
+Russian Federation,2013,female,25-34 years,6.7,Millenials
+Russian Federation,2013,female,55-74 years,6.59,Boomers
+Russian Federation,2013,female,15-24 years,5.97,Millenials
+Russian Federation,2013,male,5-14 years,1.51,Generation Z
+Russian Federation,2013,female,5-14 years,0.77,Generation Z
+Russian Federation,2014,male,75+ years,67.97,Silent
+Russian Federation,2014,male,25-34 years,43.76,Millenials
+Russian Federation,2014,male,35-54 years,41.6,Generation X
+Russian Federation,2014,male,55-74 years,38.12,Boomers
+Russian Federation,2014,male,15-24 years,25.94,Millenials
+Russian Federation,2014,female,75+ years,16.03,Silent
+Russian Federation,2014,female,55-74 years,6.31,Boomers
+Russian Federation,2014,female,35-54 years,6.06,Generation X
+Russian Federation,2014,female,25-34 years,6.03,Millenials
+Russian Federation,2014,female,15-24 years,5.46,Millenials
+Russian Federation,2014,male,5-14 years,1.31,Generation Z
+Russian Federation,2014,female,5-14 years,0.63,Generation Z
+Singapore,2012,male,75+ years,36.02,Silent
+Singapore,2012,male,55-74 years,25.82,Boomers
+Singapore,2012,female,75+ years,17.22,Silent
+Singapore,2012,male,35-54 years,14.33,Generation X
+Singapore,2012,female,35-54 years,10.43,Generation X
+Singapore,2012,female,55-74 years,9.55,Boomers
+Singapore,2012,male,25-34 years,8.34,Millenials
+Singapore,2012,male,15-24 years,7.18,Millenials
+Singapore,2012,female,15-24 years,6.57,Millenials
+Singapore,2012,female,25-34 years,5.24,Millenials
+Singapore,2012,female,5-14 years,0.47,Generation Z
+Singapore,2012,male,5-14 years,0.45,Generation Z
+Singapore,2013,male,75+ years,40.55,Silent
+Singapore,2013,male,55-74 years,22.69,Boomers
+Singapore,2013,female,75+ years,15.35,Silent
+Singapore,2013,male,35-54 years,12.5,Generation X
+Singapore,2013,male,15-24 years,11.36,Millenials
+Singapore,2013,male,25-34 years,10.93,Millenials
+Singapore,2013,female,55-74 years,7.8,Boomers
+Singapore,2013,female,35-54 years,6.34,Generation X
+Singapore,2013,female,15-24 years,5.82,Millenials
+Singapore,2013,female,25-34 years,4.53,Millenials
+Singapore,2013,female,5-14 years,0,Generation Z
+Singapore,2013,male,5-14 years,0,Generation Z
+Singapore,2014,male,75+ years,43.81,Silent
+Singapore,2014,male,55-74 years,25.05,Boomers
+Singapore,2014,male,35-54 years,11.94,Generation X
+Singapore,2014,male,25-34 years,11.18,Millenials
+Singapore,2014,female,75+ years,10.27,Silent
+Singapore,2014,female,55-74 years,8.49,Boomers
+Singapore,2014,male,15-24 years,7.71,Millenials
+Singapore,2014,female,35-54 years,7.29,Generation X
+Singapore,2014,female,25-34 years,3.11,Millenials
+Singapore,2014,female,15-24 years,1.99,Millenials
+Singapore,2014,female,5-14 years,0.48,Generation Z
+Singapore,2014,male,5-14 years,0.46,Generation Z
+Thailand,2012,male,75+ years,15.65,Silent
+Thailand,2012,male,25-34 years,14.08,Millenials
+Thailand,2012,male,55-74 years,13.1,Boomers
+Thailand,2012,male,35-54 years,12.4,Generation X
+Thailand,2012,male,15-24 years,7.47,Millenials
+Thailand,2012,female,55-74 years,4.31,Boomers
+Thailand,2012,female,75+ years,4.27,Silent
+Thailand,2012,female,35-54 years,3.74,Generation X
+Thailand,2012,female,25-34 years,3.21,Millenials
+Thailand,2012,female,15-24 years,1.78,Millenials
+Thailand,2012,female,5-14 years,0.35,Generation Z
+Thailand,2012,male,5-14 years,0.33,Generation Z
+Thailand,2013,male,75+ years,16.21,Silent
+Thailand,2013,male,25-34 years,14.01,Millenials
+Thailand,2013,male,35-54 years,13.09,Generation X
+Thailand,2013,male,55-74 years,12.75,Boomers
+Thailand,2013,male,15-24 years,6.68,Millenials
+Thailand,2013,female,75+ years,4.7,Silent
+Thailand,2013,female,35-54 years,3.61,Generation X
+Thailand,2013,female,55-74 years,3.56,Boomers
+Thailand,2013,female,25-34 years,2.54,Millenials
+Thailand,2013,female,15-24 years,1.86,Millenials
+Thailand,2013,male,5-14 years,0.4,Generation Z
+Thailand,2013,female,5-14 years,0.15,Generation Z
+Thailand,2014,male,25-34 years,13.72,Millenials
+Thailand,2014,male,75+ years,13.63,Silent
+Thailand,2014,male,55-74 years,13.24,Boomers
+Thailand,2014,male,35-54 years,12.62,Generation X
+Thailand,2014,male,15-24 years,6.83,Millenials
+Thailand,2014,female,75+ years,4.87,Silent
+Thailand,2014,female,55-74 years,4.33,Boomers
+Thailand,2014,female,35-54 years,3.65,Generation X
+Thailand,2014,female,25-34 years,2.38,Millenials
+Thailand,2014,female,15-24 years,1.04,Millenials
+Thailand,2014,female,5-14 years,0.36,Generation Z
+Thailand,2014,male,5-14 years,0.29,Generation Z
+Turkey,2012,male,75+ years,6.54,Silent
+Turkey,2012,male,35-54 years,4.11,Generation X
+Turkey,2012,male,55-74 years,3.97,Boomers
+Turkey,2012,male,25-34 years,3.5,Millenials
+Turkey,2012,male,15-24 years,2.86,Millenials
+Turkey,2012,female,75+ years,1.74,Silent
+Turkey,2012,female,15-24 years,1.53,Millenials
+Turkey,2012,female,25-34 years,1.24,Millenials
+Turkey,2012,female,35-54 years,1.18,Generation X
+Turkey,2012,female,55-74 years,1.12,Boomers
+Turkey,2012,male,5-14 years,0.37,Generation Z
+Turkey,2012,female,5-14 years,0.24,Generation Z
+Turkey,2013,male,75+ years,8.3,Silent
+Turkey,2013,male,55-74 years,5.12,Boomers
+Turkey,2013,male,35-54 years,4.78,Generation X
+Turkey,2013,male,25-34 years,4.39,Millenials
+Turkey,2013,male,15-24 years,3.92,Millenials
+Turkey,2013,female,15-24 years,2.15,Millenials
+Turkey,2013,female,75+ years,2.11,Silent
+Turkey,2013,female,55-74 years,1.44,Boomers
+Turkey,2013,female,25-34 years,1.38,Millenials
+Turkey,2013,female,35-54 years,1.2,Generation X
+Turkey,2013,female,5-14 years,0.37,Generation Z
+Turkey,2013,male,5-14 years,0.26,Generation Z
+Turkey,2014,male,75+ years,6.93,Silent
+Turkey,2014,male,55-74 years,4.64,Boomers
+Turkey,2014,male,15-24 years,3.99,Millenials
+Turkey,2014,male,35-54 years,3.85,Generation X
+Turkey,2014,male,25-34 years,3.75,Millenials
+Turkey,2014,female,15-24 years,1.83,Millenials
+Turkey,2014,female,75+ years,1.61,Silent
+Turkey,2014,female,55-74 years,1.51,Boomers
+Turkey,2014,female,35-54 years,1.08,Generation X
+Turkey,2014,female,25-34 years,1.03,Millenials
+Turkey,2014,male,5-14 years,0.32,Generation Z
+Turkey,2014,female,5-14 years,0.29,Generation Z
+Turkmenistan,2012,male,35-54 years,6.68,Generation X
+Turkmenistan,2012,male,15-24 years,6.39,Millenials
+Turkmenistan,2012,male,25-34 years,5.17,Millenials
+Turkmenistan,2012,female,15-24 years,3.34,Millenials
+Turkmenistan,2012,male,75+ years,3,Silent
+Turkmenistan,2012,male,55-74 years,2.56,Boomers
+Turkmenistan,2012,female,25-34 years,2,Millenials
+Turkmenistan,2012,female,35-54 years,0.64,Generation X
+Turkmenistan,2012,female,5-14 years,0.41,Generation Z
+Turkmenistan,2012,male,5-14 years,0.41,Generation Z
+Turkmenistan,2012,female,55-74 years,0,Boomers
+Turkmenistan,2012,female,75+ years,0,Silent
+Turkmenistan,2013,male,35-54 years,4.7,Generation X
+Turkmenistan,2013,male,25-34 years,4.59,Millenials
+Turkmenistan,2013,male,15-24 years,3.54,Millenials
+Turkmenistan,2013,female,15-24 years,3.03,Millenials
+Turkmenistan,2013,male,75+ years,2.87,Silent
+Turkmenistan,2013,male,55-74 years,1.96,Boomers
+Turkmenistan,2013,female,25-34 years,1.73,Millenials
+Turkmenistan,2013,female,35-54 years,0.47,Generation X
+Turkmenistan,2013,female,55-74 years,0.4,Boomers
+Turkmenistan,2013,female,5-14 years,0,Generation Z
+Turkmenistan,2013,female,75+ years,0,Silent
+Turkmenistan,2013,male,5-14 years,0,Generation Z
+Turkmenistan,2014,male,35-54 years,6.42,Generation X
+Turkmenistan,2014,male,25-34 years,4.89,Millenials
+Turkmenistan,2014,female,15-24 years,4.46,Millenials
+Turkmenistan,2014,male,15-24 years,3.81,Millenials
+Turkmenistan,2014,male,55-74 years,3.27,Boomers
+Turkmenistan,2014,female,25-34 years,2.95,Millenials
+Turkmenistan,2014,female,55-74 years,1.14,Boomers
+Turkmenistan,2014,female,35-54 years,0.62,Generation X
+Turkmenistan,2014,male,5-14 years,0.59,Generation Z
+Turkmenistan,2014,female,5-14 years,0,Generation Z
+Turkmenistan,2014,female,75+ years,0,Silent
+Turkmenistan,2014,male,75+ years,0,Silent
+Uzbekistan,2012,male,35-54 years,12.34,Generation X
+Uzbekistan,2012,male,55-74 years,11.65,Boomers
+Uzbekistan,2012,male,25-34 years,11.38,Millenials
+Uzbekistan,2012,female,15-24 years,10.84,Millenials
+Uzbekistan,2012,male,15-24 years,9.72,Millenials
+Uzbekistan,2012,male,75+ years,7.02,Silent
+Uzbekistan,2012,female,25-34 years,5.79,Millenials
+Uzbekistan,2012,female,35-54 years,2.56,Generation X
+Uzbekistan,2012,male,5-14 years,2.48,Generation Z
+Uzbekistan,2012,female,55-74 years,1.95,Boomers
+Uzbekistan,2012,female,75+ years,1.18,Silent
+Uzbekistan,2012,female,5-14 years,0.62,Generation Z
+Uzbekistan,2013,male,35-54 years,14.37,Generation X
+Uzbekistan,2013,male,25-34 years,12.4,Millenials
+Uzbekistan,2013,female,15-24 years,10.63,Millenials
+Uzbekistan,2013,male,15-24 years,10.09,Millenials
+Uzbekistan,2013,male,55-74 years,9.89,Boomers
+Uzbekistan,2013,male,75+ years,5.88,Silent
+Uzbekistan,2013,female,25-34 years,5.51,Millenials
+Uzbekistan,2013,female,35-54 years,2.79,Generation X
+Uzbekistan,2013,female,75+ years,2.32,Silent
+Uzbekistan,2013,male,5-14 years,2.24,Generation Z
+Uzbekistan,2013,female,55-74 years,1.55,Boomers
+Uzbekistan,2013,female,5-14 years,1.19,Generation Z
+Uzbekistan,2014,male,35-54 years,15.17,Generation X
+Uzbekistan,2014,male,25-34 years,11.61,Millenials
+Uzbekistan,2014,female,15-24 years,11.59,Millenials
+Uzbekistan,2014,male,55-74 years,11.33,Boomers
+Uzbekistan,2014,male,15-24 years,11.1,Millenials
+Uzbekistan,2014,male,75+ years,7.56,Silent
+Uzbekistan,2014,female,25-34 years,5.92,Millenials
+Uzbekistan,2014,female,35-54 years,2.96,Generation X
+Uzbekistan,2014,female,75+ years,2.58,Silent
+Uzbekistan,2014,male,5-14 years,2.17,Generation Z
+Uzbekistan,2014,female,5-14 years,1.67,Generation Z
+Uzbekistan,2014,female,55-74 years,1.46,Boomers
