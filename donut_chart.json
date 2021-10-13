@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Suicide Rates in Asia (2012 - 2014), Based on Age Groups",
+    "width": "container",
+    "height": 350,
+  
+    "data": {
+        "url": "https://raw.githubusercontent.com/echo0039/DV2/main/donut_chart.csv"
+    },
+  
+    "encoding": {
+      "theta": {"field": "Percentage", "type": "quantitative", "stack": true},
+      "color": {
+          "field": "Age Group",
+          "type": "nominal",
+          "legend": null,
+          "scale": {
+              "domain": [
+                "(5-14)",
+                "(15-24)",
+                "(25-34)",
+                "(35-54)",
+                "(55-74)",
+                "(75+)"
+              ],
+              "range": [
+                "#ff6961",
+                "#bc4b51",
+                "#5b8e7d",
+                "#C3B1E1",
+                "#f4e285",
+                "#aec6cf"
+              ]
+          }        
+      },
+      "opacity": {
+          "condition": {
+            "test": "datum['Age Group'] == '(75+)'",
+            "value": 1
+          },
+          "value": 0.5
+      },
+      "tooltip": [
+          {"field": "Age Group", "type": "nominal"},
+          {"field": "Percentage", "type": "quantitative", "format": ".2%" }
+      ]
+    },
+    
+    "layer": [
+        {
+          "mark": {
+            "type": "arc", 
+            "innerRadius": 100,
+            "stroke": "white",
+            "strokeWidth": 2,
+            "cursor": "pointer"
+          }
+        },
+        {
+          "mark": {
+              "type": "text",
+              "align": "center",
+              "radius": 125,
+              "fontSize": 12,
+              "fontStyle": "italic"
+            },
+            "encoding": {
+              "text": {"field": "Age Group", "type": "nominal"},
+              "color": {"value": "black"},
+              "opacity": {"value": 1}
+            }
+        }
+      ]
+    
+  }
