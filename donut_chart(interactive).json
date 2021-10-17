@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Crude Suicide Rates in Asia (2012 - 2014), Based on Age Groups",
+  "width": "container",
+  "height": 430,
+  "data": {
+      "url": "https://raw.githubusercontent.com/echo0039/DV2/main/suicide%20rates%20(gender%20%26%20year).csv"
+  },
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2012,
+      "bind": {
+        "input": "range", 
+        "min": 2012,
+        "max": 2014,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [{"filter": "datum.Year == Year_selection"}],
+  "encoding": {
+    "theta": {"field": "Percentage", "type": "quantitative", "stack": true, "sort": "descending"},
+    "color": {
+        "field": "Age Group",
+        "type": "nominal",
+        "scale": {
+            "domain": [
+              "(5-14)",
+              "(15-24)",
+              "(25-34)",
+              "(35-54)",
+              "(55-74)",
+              "(75+)"
+            ],
+            "range": [
+              "#bc4b51",
+              "#5b8e7d",
+              "#ff6961",
+              "#C3B1E1",
+              "#f4e285",
+              "#ADD8E6"
+            ]
+        }
+    },
+    "opacity": {
+        "condition": {
+          "test": "datum['Age Group'] == '(75+)'",
+          "value": 1
+        },
+        "value": 0.5
+    },
+    "tooltip": [
+      {"field": "Year", "type": "nominal"},
+      {"field": "Age Group", "type": "nominal"},
+      {"field": "Percentage", "type": "quantitative", "format": ".2%" }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "arc", 
+        "innerRadius": 160,
+        "outerRadius": 110,
+        "stroke": "white",
+        "strokeWidth": 2,
+        "cursor": "pointer"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "outerRadius": 185,
+        "fontSize": 12,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Percentage", "type": "quantitative", "format": ".2%"},
+        "opacity": {"value": 1}
+      }
+    },
+    {
+      "params": [
+        {
+          "name": "hover",
+          "value": [{"Age Group": "(75+)"}],
+          "select": {"type": "point", "fields": ["Age Group"], "on": "mouseover"}
+        }
+      ],
+      "mark": {
+        "type": "arc",
+        "align": "center",
+        "innerRadius": 160,
+        "outerRadius": 110,
+        "fontSize": 12,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "color": {
+          "condition": {
+            "param": "hover",
+            "field": "Age Group",
+            "type": "nominal"
+          },
+          "value": "white"
+        },
+        "opacity": {"condition": {"param": "hover", "value": 0.5}, "value": 0.2}
+      }
+    }      
+  ]
+}
