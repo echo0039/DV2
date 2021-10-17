@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> div {text-align: center;} </style>
+
+  <title>Understanding The Suicide Rates in Asia (2012 - 2014)</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+
+
+</head>
+<body>
+<style> div {text-align: center;} </style>
+
+ <div class="page">
+
+   <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1 style = "background-color: #cdcdcd; padding: 50px; border: 2px solid black;"> Insights of The Suicide Rates in Asia <br>(2012 - 2014)</h1>
+      </div>
+    </div>
+  <!-- end pure grid group -->
+
+     <!-- pure grid group -->
+     <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h3 style = "background-color: #e8e8e8; padding: 10px; border: 2px solid black;"> <br>Since the beginning of time, stress is always unavoidable. 
+          Whether the stress factors are caused by the death of a loved one, disappointments in life, or injuries/ illnesses, anyone of all ages/ genders/ race
+          can be affected by it. Thus, mental health is equally important as physical health. <br><b>In this webpage, we will be looking at different visualizations that
+          aim to provide insights of the suicide rates in Asia from 2012 to 2014.</b> <br><br> </h3>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+            <h2 style = "background-color: #F0F0F0; padding: 10px; border: 2px solid black;"> Choropleth Map Showing The Crude Suicide Rates in Asia</h2>
+            <p>This choropleth map visualizes the severity of the crude suicide rates in Asia from 2012 to 2014. 
+                <b>The severity of the crude suicide rates are shown using the <font color="red">red </font> colour luminance.</b> <b>The darker the shade 
+                of <font color="red">red </font>, the higher the crude suicide rate in the particular country. and vice versa.</b> 
+                From the choropleth map, we know that <b>Japan, Kazakstan, Korea and Mongolia are the top 4 countries
+                with the highest crude suicide rates in Asia from 2012 to 2014</b>.
+            </p>
+        </div>
+        <div class="pure-u-1-1">
+          <div id="vis1" class="vis-container"></div>
+        </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <br><br>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+            <h2 style = "background-color: #F0F0F0; padding: 10px; border: 2px solid black;"> Line Chart Showing The Trend of The Crude Suicide Rates in Asia</h2>
+            <p>This line chart shows the <b>trend</b> of the median crude suicide rates (per 100k population) 
+                of Asia from 2012 to 2014. <b>The median crude suicide rates (per 100k population) of Asia is 
+                around 7</b>, but <b>it was gradually decreasing during the 3 years (2012 - 2014)</b>, which is visualized 
+                in the line chart.
+            </p>
+        </div>
+        <div class="pure-u-1-1">
+          <div id="vis2" class="vis-container"></div>
+        </div>
+    </div> 
+    
+    <!-- end pure grid group -->
+  
+    <br><br>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-3">
+            <h2 style = "background-color: #F0F0F0; padding: 10px; border: 2px solid black;"> Donut Chart Showing The Percentage Distribution of The Crude Suicide Rates in Asia, Based on Age Groups</h2>
+            <p>The ages can be categorized into 6 categories: <br><b><font color="#bc4b51">age 5-14 </font>, 
+              <font color="#5b8e7d">age 15-24 </font>, <font color="#ff6961">age 25-34 </font> <br>
+              <font color="#C3B1E1">age 35-54 </font>, <font color="#f4e285">age 55-74 </font>, 
+              <font color="#9ed0e1">age 75+ </font></b> <br>
+                <br>Looking at the donut chart, we know that the <b><font color="#9ed0e1">age group 75+ </font> has the highest crude suicide rate</b>,
+                which is 30.30%, among the 6 age categories. On the other hand, <b><font color="#5b8e7d">age group 15-24 </font> has the lowest crude suicide
+                rate</b>, which is 1.15%. This pattern persisted throughout the 3 years, from 2012 to 2014.
+            </p>
+        </div>
+        <div class="pure-u-2-3">
+          <div id="vis3" class="vis-container" style = "padding-right: 20px; padding-top: 0px"></div>
+        </div>
+    </div> 
+
+    <!-- end pure grid group -->
+
+    <br><br>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-3">
+            <h2 style = "background-color: #F0F0F0; padding: 10px; border: 2px solid black;"> Stacked Bar Chart Showing The Difference Between The Crude Suicide Rates Based on Gender</h2>
+            <p>Looking at the stacked bar chart, <b>the average <font color="#dea5a4">female </font> crude suicide rates in Asia between 2012 and 
+                2014 were always lower than the average <font color="#a8c3e7">male </font> crude suicide rates</b>. The difference between the <font color="#dea5a4">female </font>
+                and <font color="#a8c3e7">male </font> crude 
+                suicide rates from 2012 to 2014 ranges around 6.5 to 8 per 100k population. Also, we can see that <b>the sum of the crude suicide rates of both genders are decreasing
+                every year </b>.
+            </p>
+        </div>
+        <div class="pure-u-2-3">
+            <div id="vis4" class="vis-container" style = "padding-right: 20px; padding-top: 0px"></div>
+        </div>
+    </div> 
+
+    <!-- end pure grid group -->
+
+
+    <div class="pure-g">
+      <div class="pure-u-1-1 small-font">
+        <p>This visualisation is created by Emma Chong Yong Yong.</p>
+      </div>
+    </div>
+  
+
+  </div> <!-- end page -->
+   
+<script type="text/javascript">
+  var specVis1 = "./choropleth_map.json";
+  var specVis2 = "./line_chart(average).json";
+  var specVis3 = "./donut_chart(interactive).json";
+  var specVis4 = "./bar_chart.json";
+
+vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+vegaEmbed('#vis3', specVis3, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+vegaEmbed('#vis4', specVis4, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);;
+
+</script>
+</body>
+</html>
